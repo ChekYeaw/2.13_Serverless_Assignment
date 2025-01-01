@@ -1,7 +1,5 @@
 # 2.13_Serverless_Assignment
 
-# 2.13_Serverless_Assignment
-
 Make a comparison between Serverless Framework and Terraform as tools for IaC by answering:
 
 1. **What type of infrastructure and application deployments are each tool best suited for?**
